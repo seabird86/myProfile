@@ -1,0 +1,51 @@
+
+
+mat-toolbar[_ngcontent-ng-c4002275619]   .spacer[_ngcontent-ng-c4002275619] {
+  flex: auto;
+}
+mat-toolbar[_ngcontent-ng-c4002275619]   span[_ngcontent-ng-c4002275619] {
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: bold;
+  color: purple;
+  margin-left: 8px;
+}
+mat-toolbar[_ngcontent-ng-c4002275619]   img[_ngcontent-ng-c4002275619] {
+  margin-left: 0.5vw;
+  height: 90%;
+}
+@media (max-width: 425px) {
+  mat-toolbar[_ngcontent-ng-c4002275619] {
+    padding: 0px;
+  }
+}
+[_nghost-ng-c4002275619] {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+[_nghost-ng-c4002275619]   [_ngcontent-ng-c4002275619]:nth-child(2) {
+  flex: 1;
+}
+footer[_ngcontent-ng-c4002275619] {
+  text-align: center;
+  font-weight: 100;
+  font-size: 15px;
+  background-color: rgb(40, 42, 53);
+  padding: 10px 10px;
+  color: white;
+}
+footer[_ngcontent-ng-c4002275619]   a[_ngcontent-ng-c4002275619] {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  color: orange;
+}
+footer[_ngcontent-ng-c4002275619]   a[_ngcontent-ng-c4002275619]:hover {
+  color: yellow;
+}
+footer[_ngcontent-ng-c4002275619]   p[_ngcontent-ng-c4002275619] {
+  font-family:
+    "ui-monospace",
+    "Nunito",
+    sans-serif;
+}
+/*# sourceMappingURL=14058c8b3bdf607f1f6f1066def2cd442a5b99ba91e3a178a620175bcc60fdac.css.map */
